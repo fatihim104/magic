@@ -3,4 +3,3 @@
 let conflictOrnegi = "Conflict icin branch eklendi."
 let main = "main branchde eklendi";
 let farkliSatir = "Mainde iken farkli sartira bir degisken daha eklendi.";  
-
